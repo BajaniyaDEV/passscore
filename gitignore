@@ -1,0 +1,19 @@
+# Dataset (download it instead of committing it)
+data/*.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Saved models
+*.pt
+*.pth
+
+# OS
+.DS_Store
+Thumbs.db
