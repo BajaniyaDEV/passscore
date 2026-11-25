@@ -84,7 +84,7 @@ Each model improves on the previous one:
 ## 🚀 Getting started
 
 ```bash
-git clone https://github.com/<your-username>/passscore.git
+git clone https://github.com/BajaniyaDEV/passscore.git
 cd passscore
 pip install -r requirements.txt
 ```
