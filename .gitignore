@@ -10,10 +10,6 @@ venv/
 # Jupyter
 .ipynb_checkpoints/
 
-# Saved models
-*.pt
-*.pth
-
 # OS
 .DS_Store
 Thumbs.db
